@@ -1,0 +1,22 @@
+# Files that probably should not be in git.  
+
+# Compiled source
+*.o
+*.so
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.ehthumbs.db
+Thumgs.db
+
+# IDE files
+/.idea
